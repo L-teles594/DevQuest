@@ -1,0 +1,21 @@
+/* p {
+    Cada Lateral Separada
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+} */
+
+/* p {
+    Short end para topo e base iguais e laterais iguais
+    margin: 30px 15px;
+} */
+
+/* ShortEnd para todas as laterais diferentes*/
+p {
+    background-color: aquamarine;
+    border: solid 20px red;
+    margin: 30px 15px 25px 12px;
+    padding: 20px;
+}
+
